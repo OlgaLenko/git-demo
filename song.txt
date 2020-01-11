@@ -38,3 +38,5 @@
 В заоблачный плес
 Ушел мой приятель
 И песню унес.
+
+some super-cool information for cherry-pick
